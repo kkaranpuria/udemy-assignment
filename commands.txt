@@ -3,3 +3,7 @@ git add FILE_NAME
 git commit -m "MESSAGE"
 git push origin master
 GitHub: https://github.com/kkaranpuria/udemy-assignment
+Github Username: kkaranpuria
+
+Gmail Login
+krishkaranpuria07@gmail.com
