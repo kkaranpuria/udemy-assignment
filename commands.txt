@@ -2,4 +2,4 @@ GIT COMMANDS
 git add FILE_NAME
 git commit -m "MESSAGE"
 git push origin master
-GitHub: https://github.com
+GitHub: https://github.com/kkaranpuria/udemy-assignment
