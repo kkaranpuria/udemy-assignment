@@ -7,3 +7,15 @@ Github Username: kkaranpuria
 
 Gmail Login
 krishkaranpuria07@gmail.com
+
+cut = command + x
+copy = command + c
+paste = command + v
+undo = command + z
+redo = command + shift + z
+save file = command + s
+close file/ tab = command + w
+close application = command + q
+switch application = command + tab
+refresh page = command + r
+inspect = command + option + i
