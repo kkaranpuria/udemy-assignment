@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Assignment_form</title>
+    </head>
+    <body>
+        <h1>Register</h1>
+        <form>
+            <div>
+            <label>
+                First Name:
+                <input type ="text" placeholder ="First Name">
+            </label>
+
+            <label>
+                Last Name:
+                <input type ="text" placeholder ="Last Name">
+            </label>
+            </div>
+            <div><label>
+               Male
+               <input type ="radio" name="gender" >
+               Female
+               <input type ="radio"  name="gender">
+                Other
+               <input type ="radio"  name="gender">
+            </label></div>
+            <div><label>
+                Email:
+                <input type ="email" placeholder = "Email">
+                Password:
+                <input type ="password" minlength="5" maxlength="10">
+            </label></div>
+            <label>
+                Birthday:
+                <select name="Months" id="months">
+                    <option value="">Months</option>
+                    <option value="Jan">Jan</option>
+                    <option value="Feb">Feb</option>
+                    <option value="Mar">Mar</option>
+                    <option value="Apr">Apr</option>
+                    <option value="May">May</option>
+                    <option value="Jun">Jun</option>
+                    <option value="Jul">Jul</option>
+                    <option value="Aug">Aug</option>
+                    <option value="Sep">Sep</option>
+                    <option value="Oct">Oct</option>
+                    <option value="Nov">Nov</option>
+                    <option value="Dec">Dec</option>
+                </select>
+                <select name="Day" id="Day">
+                    <option value="">Days</option>
+                    <option value="Mon">Mon</option>
+                    <option value="Tue">Tue</option>
+                    <option value="Wed">wed</option>
+                    <option value="Thu">Thu</option>
+                    <option value="Fri">Fri</option>
+                    <option value="Sat">Sat</option>
+                    <option value="Sun">Sun</option>
+                </select>
+                <select name="Year" id="Year">
+                    <option value="">Year</option>
+                    <option value="2007">2007</option>
+                    <option value="2008">2008</option>
+                    <option value="2009">2009</option>
+                    <option value="2010">2010</option>
+                </select>
+            </label>
+            <div>
+                <label>
+                    I agree with the terms and condition
+                    <input type ="checkbox">
+                </label>
+            </div>
+            <label>
+                <input type ="submit">
+            </label>
+        </form>
+    </body>
+</html>
