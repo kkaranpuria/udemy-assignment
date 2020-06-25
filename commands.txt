@@ -19,3 +19,4 @@ close application = command + q
 switch application = command + tab
 refresh page = command + r
 inspect = command + option + i
+open console for vs code = control + ~
